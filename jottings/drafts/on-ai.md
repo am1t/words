@@ -1,5 +1,5 @@
 ---
-title: On AI
+title: Thoughts On AI
 slug: on-ai
 tags: tech
 ---
@@ -8,3 +8,5 @@ I don't use AI to write. But I do use AI for review. I want to get my words, the
 I use AI to code. I avoid the grind.
 
 I don't consciously use AI to generate images. What's the point? I would rather not have an image if it is AI-generated. What about the photos I take? Aren't they already processed via AI? I don't care.
+
+AI write skills for itself. Humans don't help AI. AI helps itself.
