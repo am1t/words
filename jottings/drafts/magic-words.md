@@ -1,5 +1,5 @@
 ---
-title: magic-words
+title: Magic Words
 slug: magic-words
 ---
 > If you want to see normal people turn into power-hungry dictators in five minutes, all you have to do is say the magic words: "We'd love to hear your suggestions!"
