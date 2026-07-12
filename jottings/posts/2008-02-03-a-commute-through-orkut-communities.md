@@ -1,0 +1,18 @@
+---
+title: A Commute through Orkut Communities...
+date: '2008-02-03 00:00:00'
+slug: a-commute-through-orkut-communities
+---
+[![](https://images.amitgawande.com/2008/gen1.jpg)](http://elatedamit.blogspot.com/)Here is another slippery weekend sliding beneath my feet. As i sit acting idle, with feeling rather unsuccessful with my attempts to follow "[Operation Afraid](http://elatedamit.blogspot.com/2008/01/operation-afraid.html)", i start scanning my social appearance at Orkut. (P.S. I did succeed in beating one dreaded task. Successfully washed the clothes, a task no less than a feat. Though the fear of uncompleteness did keep me away from taking a bath and shaving. You see victory ask for persistent efforts :P) And along my stroll, I again dashed into a place i find the most meaningless. The Communities.
+
+I always thought that it should be wrong to say that i completely hate them. The fact that i myself have joined around 50 communities should signify that. But then it was today i thought to drill into my communities' choice. And then rose the truth. All the communities i have joined can largely be divided into following categories:
+
+- Ones i joined as a newbie, similar to a kiddie thrown into a toy shop picking random toys
+- Ones which i was forced to join with an ultimatum of sort "Join now" ('or you will be hanged alive' was always silent :P)
+- Ones wherein you just feel great to be part of. It hardly matters how much sense it makes in you joining them
+
+And it was then i realized that communities are indeed quite a boring and meaningless places to be in. More meaningless than boring. Include one more of ones which i created and I guess we have the categories generic enough to include the whole 'orkut'ers. First, it hardly has any sensible activity going on. (One can surely not mark people proving themselves to be superior by posting last or naming there predecessor or playing jokers as sensible.) Secondly, thanks to the first point and the second and third category, it hardly reflects what the person's interest really are. So a weirdo playing a "Rate the person above you" game in C++ community places him straight into the third category just in for senseless fun.
+
+Moreover mostly are the occasions wherein the common interest projected itself is quite confusing. There are majority just to display one's liking for blah blah singer, writer, director, actor, books, sports-persons, nations, places and every such namable entity. For each one mentioned above there is an anti-community of haters. Each one of these have various levels of followers: country wise, state wise, city wise, university wise and the digging just goes on. Then there are those which say they exists for common purpose like "spreading happiness", "cutting sorrows", "making healthy", "shit happens: you are not alone" and bhah blah. And finally those which are quite weird which do make you raise your eyebrows. Few to mention "I hate orkut" (wouldn't it be a good idea to group such interesting people in Facebook) or "Announce new orkut communities" (Community with a goal to promote other community?? how innovative) or "Absurd Communities" or "I hate orkut communities" (need i say anything??). How i wished to be innovative enough to come up with something so fascinating and new. No wonder each community has atleast a single copy with equal number of members.
+
+Anyways whatever i say, they do exists and exists with thunderous activities. I know i do have missed to crown many others which indeed need a mention. But then considering the vastness of this community world, i dare you try that out!
